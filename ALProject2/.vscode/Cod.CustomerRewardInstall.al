@@ -18,7 +18,7 @@ codeunit 50100 "Customer Rewards Install Logic"
     local procedure HandleFreshInstall();
     begin
         // Do work needed the first time this extension is ever installed for this tenant.
-        // Some possible usages:
+        // Some possible usagessssss:
         // - Service callback/telemetry indicating that extension was installed
         // - Initial data setup for use
         SetDefaultCustomerRewardsExtMgtCodeunit;
