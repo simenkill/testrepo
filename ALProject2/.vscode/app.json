@@ -1,0 +1,26 @@
+{
+    "id": "2a556695-cdbd-4ca2-b9c6-616f1a1f0279",
+    "name": ".vscode",
+    "publisher": "Default publisher",
+    "version": "1.0.0.0",
+    "brief": "",
+    "description": "",
+    "privacyStatement": "",
+    "EULA": "",
+    "help": "",
+    "url": "",
+    "logo": "",
+    "dependencies": [],
+    "screenshots": [],
+    "platform": "1.0.0.0",
+    "application": "18.0.0.0",
+    "idRanges": [
+      {
+        "from": 50100,
+        "to": 50149
+      }
+    ],
+    "contextSensitiveHelpUrl": "https://mysite.com/documentation/",
+    "showMyCode": true,
+    "runtime": "7.0"
+  }
