@@ -5,7 +5,7 @@ tableextension 50100 "CustomerTable Ext." extends Customer
         field(10001; RewardPoints; Integer)
         {
             Caption = 'Reward Points';
-            DataClassification = CustomerContent;
+            DataClassification = CustomerContent; //TODO make changes here
             MinValue = 0;
         }
     }
